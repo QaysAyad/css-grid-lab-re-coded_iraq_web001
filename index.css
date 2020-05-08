@@ -25,7 +25,7 @@ grid-gap: 5px;
  grid-area: 2 / 2 / 4 / 4;
   width: 50%;
   justify-self: center;
-  align-self:stretch;
+  align-self:baseline;;
 
 
 }
